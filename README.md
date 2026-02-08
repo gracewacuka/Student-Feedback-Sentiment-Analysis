@@ -1,4 +1,4 @@
-🧠 <u> <b>Project Overview</b> </u>
+🧠 <h3><b><u>Project Overview</u></b><h3>
 
 This project analyzes student course feedback using Natural Language Processing (NLP) techniques to understand how students feel about their courses and instructors beyond numeric survey ratings. By applying sentiment analysis to open-ended comments, the project uncovers emotional tone, common themes and relationships between sentiment, performance metrics and survey scores.
 
