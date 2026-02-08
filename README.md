@@ -2,7 +2,8 @@
 
 This project analyzes student course feedback using Natural Language Processing (NLP) techniques to understand how students feel about their courses and instructors beyond numeric survey ratings. By applying sentiment analysis to open-ended comments, the project uncovers emotional tone, common themes and relationships between sentiment, performance metrics and survey scores.
 
-🎯 Objectives
+
+🎯 <b>Objectives</b>
 
 Classify student feedback as positive, neutral, or negative
 
@@ -12,7 +13,8 @@ Compare sentiment results with numeric survey ratings
 
 Generate insights to improve teaching quality and student satisfaction
 
-⚙️ Tools & Technologies
+
+⚙️ <b>Tools & Technologies</b>
 
 Python
 
@@ -26,7 +28,8 @@ WordCloud – text frequency visualization
 
 Google Colab – development environment
 
-📈 Key Insights
+
+📈 <b>Key Insights</b>
 
 The average survey rating was approximately 2.99 out of 5, indicating moderate overall satisfaction.
 
@@ -38,7 +41,8 @@ Negative feedback often mentioned late, confusing and unclear, pointing to issue
 
 Courses with higher student participation (attendance, assignments, LMS activity) generally received higher ratings and more positive sentiment, showing a correlation between engagement and satisfaction.
 
-💡 Recommendations
+
+💡 <b>Recommendations</b>
 
 Improve clarity and organization: Structured lessons, clear explanations, and accessible materials increase student satisfaction.
 
@@ -48,7 +52,8 @@ Enhance communication and consistency: Address delays, unclear instructions, and
 
 Share best teaching practices: Instructors with consistently positive feedback can serve as models across departments.
 
-🧩 Skills Demonstrated
+
+🧩 <b>Skills Demonstrated</b>
 
 Text preprocessing and sentiment analysis (NLP)
 
